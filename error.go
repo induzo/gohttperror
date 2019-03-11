@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/render"
-	"github.com/vincentserpoul/gohttpmw"
+	"github.com/induzo/gohttpmw"
 )
 
 // ErrResponse renderer type for handling all sorts of errors.
