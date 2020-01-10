@@ -7,7 +7,7 @@ require (
 	github.com/golang/mock v1.2.0 // indirect
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
-	github.com/induzo/gohttpmw v1.0.1
+	github.com/induzo/gohttpmw v1.0.2
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/segmentio/ksuid v1.0.2 // indirect
